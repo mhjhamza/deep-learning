@@ -8,7 +8,7 @@ You can simply run this script over any video and analyze the facial expressions
 
 This way you'll have a brief awareness of the content you're about to watch.
 
-The facial expressions falls under the following categories 
+The facial expressions fall into the following categories 
 
 * Angry
 * Disgust
