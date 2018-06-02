@@ -2,7 +2,7 @@
 
 **Analyze the tv-serials even before you start watching them!**
 
-This repository helps create a general persecption of emotions contained by a perticular tv-serial.
+This repository helps create a general perception of emotions contained by a particular tv-serial.
 
 You can simply run this script over any video and analyze the facial expressions of people in that video.
 
